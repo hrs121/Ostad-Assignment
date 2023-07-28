@@ -31,4 +31,4 @@ function calculateGrade(input){
 }
 
 
-console.log(calculateGrade(67))
+console.log(calculateGrade(72))
