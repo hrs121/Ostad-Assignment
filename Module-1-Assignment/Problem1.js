@@ -2,6 +2,7 @@ function discountCalculator(purchasedAmount){
 
     let total=purchasedAmount;
     let discount=0;
+    let result=(total-discount)
 
     if(total<50){
         discount=0;
@@ -17,9 +18,6 @@ function discountCalculator(purchasedAmount){
 
     console.log("Total Purchased Amount= "+total);
     console.log("Discount Amount= "+discount);
-
-    let result=(total-discount)
-
     console.log("Discounted total Amount= "+result);
 }
 
