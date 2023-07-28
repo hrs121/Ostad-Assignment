@@ -32,3 +32,5 @@ function calculateGrade(input){
 
 
 console.log(calculateGrade(72))
+
+

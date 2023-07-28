@@ -8,9 +8,9 @@ function discountCalculator(purchasedAmount){
         discount=0;
     }else if(total>=50 && total<100){
         discount=total*(5/100);
-    }else if(total>=100 && total<200){
+    }else if(total>=100 && total<=200){
         discount=total*(10/100);
-    }else if(total>=200 ){
+    }else if(total>200 ){
         discount=total*(15/100);
     }else{
         discount=0;
