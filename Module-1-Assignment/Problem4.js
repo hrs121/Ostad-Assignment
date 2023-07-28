@@ -24,7 +24,7 @@ function calculateGrade(input){
 
         default:
             result='Invalid input'
-        
+        break;4
     }
 
     return result;
