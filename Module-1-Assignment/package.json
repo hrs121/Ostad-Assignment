@@ -1,0 +1,12 @@
+{
+  "name": "module-1-assignment",
+  "version": "1.0.0",
+  "description": "This is my first Assignment.",
+  "main": "Problem1.js",
+  "scripts": {
+    "start-dev": "nodemon Problem1,js"
+  },
+  "keywords": [],
+  "author": "Humayun Rashid",
+  "license": "ISC"
+}
