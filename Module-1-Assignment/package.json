@@ -4,7 +4,7 @@
   "description": "This is my first Assignment.",
   "main": "Problem1.js",
   "scripts": {
-    "start-dev": "nodemon Problem2.js"
+    "start-dev": "nodemon Problem4.js"
   },
   "keywords": [],
   "author": "Humayun Rashid",
