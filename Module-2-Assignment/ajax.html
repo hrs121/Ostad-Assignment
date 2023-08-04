@@ -1,0 +1,9 @@
+<script>
+    let URL="https://jsonplaceholder.typicode.com/posts"
+    ajaxFetch();
+    async function ajaxFetch(){
+        let res=await fetch(URL);
+        let jsonData=await res.json();
+        document.write(JSON.stringify(jsonData))
+    }
+</script>
