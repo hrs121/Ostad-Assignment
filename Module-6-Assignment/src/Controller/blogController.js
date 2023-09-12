@@ -4,7 +4,7 @@ exports.create = async (req, res) => {
 
 
 exports.read = async (req, res) => {
-    res.send("Read Blog API")
+    res.send("Read blog API")
 };
 
 
