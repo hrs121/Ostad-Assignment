@@ -1,5 +1,5 @@
 const app=require('./app');
 
-app.listen(3000, function (){
+app.listen(5500, function (){
     console.log("Server is running.")
 })
